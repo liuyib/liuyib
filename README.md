@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 <code><img height="20" src="./assets/aseprite.svg" title="Aseprite"></code>
 <code><img height="20" src="./assets/mdnwebdocs.svg" title="MDN Web Docs"></code>
 
-> _Note: These icons all come from https://simpleicons.org/_, but fill color by me.
+> _Note: These icons all come from https://simpleicons.org/_, but fill colour by myself.
