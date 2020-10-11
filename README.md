@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![liuyib's github stats](https://github-readme-stats.vercel.app/api?username=liuyib&show_icons=true)
+[![liuyib's github stats](https://github-readme-stats.vercel.app/api?username=liuyib&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **liuyib/liuyib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,3 +34,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="./assets/mdnwebdocs.svg" title="MDN Web Docs"></code>
 
 > _Note: These icons all come from https://simpleicons.org/_, but fill colour by myself.
+
+
+[![Page View](https://visitor-badge.glitch.me/badge?page_id=liuyib.liuyib)](https://github.com/jwenjian/visitor-badge)
