@@ -34,3 +34,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="./assets/mdnwebdocs.svg" title="MDN Web Docs"></code>
 
 > _Note: These icons all come from https://simpleicons.org/_, but fill colour by myself.
+
+[![liuyib - repo - leetcode](https://github-readme-stats.vercel.app/api/pin/?username=liuyib&repo=leetcode)](https://github.com/liuyib/leetcode)
+[![liuyib - repo - demo](https://github-readme-stats.vercel.app/api/pin/?username=liuyib&repo=demo)](https://github.com/liuyib/demo)
