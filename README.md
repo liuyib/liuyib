@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<a href="https://github.com/jwenjian/visitor-badge" target="_blank" align="right">
-<img src="https://visitor-badge.glitch.me/badge?page_id=liuyib.liuyib" title="Page View" alt="Page View" />
-</a>
+## Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api?username=liuyib&show_icons=true" title="liuyib's github stats" alt="liuyib's github stats" />
