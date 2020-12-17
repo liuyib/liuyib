@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 
 > _Note: These icons all come from https://simpleicons.org/_, but fill colour by myself.
 
-[![liuyib - repo - leetcode](https://github-readme-stats.vercel.app/api/pin/?username=liuyib&repo=leetcode)](https://github.com/liuyib/leetcode)
+[![liuyib - repo - fucking-algorithm](https://github-readme-stats.vercel.app/api/pin/?username=liuyib&repo=fucking-algorithm)](https://github.com/liuyib/fucking-algorithm)
 [![liuyib - repo - demo](https://github-readme-stats.vercel.app/api/pin/?username=liuyib&repo=demo)](https://github.com/liuyib/demo)
