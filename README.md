@@ -1,5 +1,3 @@
 ## Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api?username=liuyib" title="liuyib's github stats" alt="liuyib's github stats" />
-</a>
+![liuyib's GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=liuyib&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9))
